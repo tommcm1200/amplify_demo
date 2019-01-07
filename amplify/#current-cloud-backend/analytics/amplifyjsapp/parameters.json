@@ -1,0 +1,11 @@
+{
+    "appName": "amplifyjsapp",
+    "roleName": "pinpointLambdaRole14da9ed7",
+    "cloudWatchPolicyName": "cloudWatchPolicy14da9ed7",
+    "pinpointPolicyName": "pinpointPolicy14da9ed7",
+    "authPolicyName": "pinpoint_amplify_14da9ed7",
+    "unauthPolicyName": "pinpoint_amplify_14da9ed7",
+    "authRoleName": "amplifyjsapp-20190107155424-authRole",
+    "unauthRoleName": "amplifyjsapp-20190107155424-unauthRole",
+    "IAMPrefix": "105036801008"
+}
